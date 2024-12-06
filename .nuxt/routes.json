@@ -1,0 +1,191 @@
+[
+  {
+    "name": "about___ru",
+    "path": "/about",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6c9e6c5f"
+  },
+  {
+    "name": "advices___ru",
+    "path": "/advices",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/advices/index.vue",
+    "chunkName": "pages/advices/index",
+    "_name": "_0b173690"
+  },
+  {
+    "name": "contacts___ru",
+    "path": "/contacts",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_68ae9a71"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e75371b8"
+  },
+  {
+    "name": "index___kk",
+    "path": "/kk",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e75371b8"
+  },
+  {
+    "name": "services___ru",
+    "path": "/services",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/services/index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_d981b302"
+  },
+  {
+    "name": "tours___ru",
+    "path": "/tours",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/tours/index.vue",
+    "chunkName": "pages/tours/index",
+    "_name": "_3a02d8a0"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6c9e6c5f"
+  },
+  {
+    "name": "advices___en",
+    "path": "/en/advices",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/advices/index.vue",
+    "chunkName": "pages/advices/index",
+    "_name": "_0b173690"
+  },
+  {
+    "name": "contacts___en",
+    "path": "/en/contacts",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_68ae9a71"
+  },
+  {
+    "name": "services___en",
+    "path": "/en/services",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/services/index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_d981b302"
+  },
+  {
+    "name": "tours___en",
+    "path": "/en/tours",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/tours/index.vue",
+    "chunkName": "pages/tours/index",
+    "_name": "_3a02d8a0"
+  },
+  {
+    "name": "about___kk",
+    "path": "/kk/about",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6c9e6c5f"
+  },
+  {
+    "name": "advices___kk",
+    "path": "/kk/advices",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/advices/index.vue",
+    "chunkName": "pages/advices/index",
+    "_name": "_0b173690"
+  },
+  {
+    "name": "contacts___kk",
+    "path": "/kk/contacts",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_68ae9a71"
+  },
+  {
+    "name": "services___kk",
+    "path": "/kk/services",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/services/index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_d981b302"
+  },
+  {
+    "name": "tours___kk",
+    "path": "/kk/tours",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/tours/index.vue",
+    "chunkName": "pages/tours/index",
+    "_name": "_3a02d8a0"
+  },
+  {
+    "name": "index___ru",
+    "path": "/",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e75371b8"
+  },
+  {
+    "name": "advices-id___en",
+    "path": "/en/advices/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/advices/_id.vue",
+    "chunkName": "pages/advices/_id",
+    "_name": "_c5bcc610"
+  },
+  {
+    "name": "services-id___en",
+    "path": "/en/services/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/services/_id.vue",
+    "chunkName": "pages/services/_id",
+    "_name": "_5d12bca7"
+  },
+  {
+    "name": "tours-id___en",
+    "path": "/en/tours/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/tours/_id.vue",
+    "chunkName": "pages/tours/_id",
+    "_name": "_c9047bd0"
+  },
+  {
+    "name": "advices-id___kk",
+    "path": "/kk/advices/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/advices/_id.vue",
+    "chunkName": "pages/advices/_id",
+    "_name": "_c5bcc610"
+  },
+  {
+    "name": "services-id___kk",
+    "path": "/kk/services/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/services/_id.vue",
+    "chunkName": "pages/services/_id",
+    "_name": "_5d12bca7"
+  },
+  {
+    "name": "tours-id___kk",
+    "path": "/kk/tours/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/tours/_id.vue",
+    "chunkName": "pages/tours/_id",
+    "_name": "_c9047bd0"
+  },
+  {
+    "name": "advices-id___ru",
+    "path": "/advices/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/advices/_id.vue",
+    "chunkName": "pages/advices/_id",
+    "_name": "_c5bcc610"
+  },
+  {
+    "name": "services-id___ru",
+    "path": "/services/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/services/_id.vue",
+    "chunkName": "pages/services/_id",
+    "_name": "_5d12bca7"
+  },
+  {
+    "name": "tours-id___ru",
+    "path": "/tours/:id",
+    "component": "/Users/zhuldyz/Desktop/work/hiking/pages/tours/_id.vue",
+    "chunkName": "pages/tours/_id",
+    "_name": "_c9047bd0"
+  }
+]

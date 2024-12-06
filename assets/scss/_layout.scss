@@ -1,0 +1,42 @@
+@import "variables";
+body {
+  background-color: #FFF;
+	color: #324552;
+	font-family: 'Inter';
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 24px;
+	transition: 300ms linear all;
+}
+.container-1 {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+@media (max-width: 960px) {
+	.container-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+		max-width: 100%;
+	}
+}
+
+@media (max-width: 1140px) {
+	.container-1 {
+		max-width: 960px;
+	}
+}
+
+@media (min-width: 1140px) {
+	.container-1 {
+		max-width: 1140px;
+	}
+}
+
+a {
+	text-transform: none;
+	text-decoration: none;
+	color: inherit;
+	transition: 300ms linear all;
+}

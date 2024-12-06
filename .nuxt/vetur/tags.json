@@ -1,0 +1,101 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "MainHero": {
+    "description": "Auto imported from components/main/hero.vue"
+  },
+  "MainReviews": {
+    "description": "Auto imported from components/main/reviews.vue"
+  },
+  "MainTours": {
+    "description": "Auto imported from components/main/tours.vue"
+  },
+  "SharedFooter": {
+    "description": "Auto imported from components/shared/Footer.vue"
+  },
+  "SharedForm": {
+    "description": "Auto imported from components/shared/Form.vue"
+  },
+  "SharedMobileHeader": {
+    "description": "Auto imported from components/shared/MobileHeader.vue"
+  },
+  "SharedHeader": {
+    "description": "Auto imported from components/shared/header.vue"
+  },
+  "SharedInstagram": {
+    "description": "Auto imported from components/shared/instagram.vue"
+  },
+  "SharedTickets": {
+    "description": "Auto imported from components/shared/tickets.vue"
+  },
+  "AboutHero": {
+    "description": "Auto imported from components/about/hero.vue"
+  },
+  "AboutSecurity": {
+    "description": "Auto imported from components/about/security.vue"
+  },
+  "AboutSpecialists": {
+    "description": "Auto imported from components/about/specialists.vue"
+  },
+  "AboutTeam": {
+    "description": "Auto imported from components/about/team.vue"
+  },
+  "AboutTemple": {
+    "description": "Auto imported from components/about/temple.vue"
+  },
+  "AboutUs": {
+    "description": "Auto imported from components/about/us.vue"
+  },
+  "ToursFilter": {
+    "description": "Auto imported from components/tours/filter.vue"
+  },
+  "ToursInfo": {
+    "description": "Auto imported from components/tours/info.vue"
+  },
+  "ToursMini": {
+    "description": "Auto imported from components/tours/mini.vue"
+  },
+  "ToursModal": {
+    "description": "Auto imported from components/tours/modal.vue"
+  },
+  "ToursRow": {
+    "description": "Auto imported from components/tours/row.vue"
+  },
+  "UiBread": {
+    "description": "Auto imported from components/ui/bread.vue"
+  },
+  "UiBreadcrumbs": {
+    "description": "Auto imported from components/ui/breadcrumbs.vue"
+  },
+  "UiButton": {
+    "description": "Auto imported from components/ui/button.vue"
+  },
+  "UiCheckbox": {
+    "description": "Auto imported from components/ui/checkbox.vue"
+  },
+  "UiHeading": {
+    "description": "Auto imported from components/ui/heading.vue"
+  },
+  "UiInput": {
+    "description": "Auto imported from components/ui/input.vue"
+  },
+  "UiRadio": {
+    "description": "Auto imported from components/ui/radio.vue"
+  },
+  "UiSelect": {
+    "description": "Auto imported from components/ui/select.vue"
+  },
+  "UiSlider": {
+    "description": "Auto imported from components/ui/slider.vue"
+  },
+  "SharedModalsLangModal": {
+    "description": "Auto imported from components/shared/modals/langModal.vue"
+  },
+  "SharedModalsSuccess": {
+    "description": "Auto imported from components/shared/modals/success.vue"
+  }
+}
