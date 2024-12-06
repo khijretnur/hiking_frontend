@@ -26,7 +26,9 @@
         <div class="footer__contact">
           <div class="contact__header">Контакты</div>
           <div class="contact__info">
-            <a href="tel:7 712 333 33 33" target="_blank">+7 712 333 33 33</a>
+            <a href="tel:+7 702 98 63 580" target="_blank">+7 702 98 63 580</a>
+            <a href="Mail: kulutas1@stu.vistula.edu.pl" target="_blank"> kulutas1@stu.vistula.edu.pl</a>
+            
             <div>Байзакова, 280</div>
           </div>
           <div class="contact__socials">
