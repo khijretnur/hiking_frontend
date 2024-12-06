@@ -1,44 +1,38 @@
-# Node.js dependencies
+# Node modules
 node_modules/
 
+# Build output
+.nuxt/
+dist/
+
+# Local environment variables
+.env
+.env.*
+.env.local
+
 # Logs
-logs/
-*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
 
-# Build output
-dist/
-build/
-out/
-
-# Cache files
+# Cache directories
 .cache/
-.temp/
-*.cache
+coverage/
+temp/
 *.tmp
 
-# OS-specific files
-.DS_Store
-Thumbs.db
+# Nuxt.js specific files
+*.nuxt
 
-# IDEs and editors
-.vscode/
+# Editor and IDE specific files
+.DS_Store
 .idea/
+.vscode/
+*.swp
 *.suo
-*.ntvs*
 *.njsproj
 *.sln
-*.sw?
-
-# Testing
-coverage/
-
-# Environment variables
-.env
-.env.local
-.env.*.local
 
 # Miscellaneous
 *.lock
@@ -46,23 +40,20 @@ coverage/
 *.seed
 *.pid.lock
 
-# Lint and formatting
+# Test files
+test-results/
+junit.xml
+
+# Lint and format
 .eslintcache
 .stylelintcache
 
-# Package manager
-.pnpm-debug.log
-.yarn/
-.yarn-debug.log
-.yarn-error.log
-
-# Storybook files
+# Storybook files (if used)
 storybook-static/
 
-# Temporary files
-tmp/
-temp/
+# OS generated files
+Thumbs.db
 
-# Others
-!.gitignore
+# Optional: If you're using Firebase or similar services
+.firebase/
 
