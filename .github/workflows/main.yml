@@ -37,7 +37,7 @@ jobs:
           password: 'lcAIp69zjTcK!'
           port: '22'
           source: ".nuxt,assets,layouts,static,package.json,nuxt.config.js"
-          target: '/var/www/front'
+          target: '/var/www/hiking_frontend'
 
       - name: Connect to server
         uses: appleboy/ssh-action@master
