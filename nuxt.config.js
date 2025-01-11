@@ -65,7 +65,7 @@ export default {
   ],
 
   axios: {
-    baseURL: 'http://194.110.54.147/api'
+    baseURL: 'http://77.246.247.250/api'
   },
 
   i18n: {
